@@ -1,5 +1,5 @@
 # PSTeamDB
 
-Crack DB Yopiws
+Crack DB Anos
 
 Jangan berisik nanti ketahuan
